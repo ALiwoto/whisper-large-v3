@@ -1,19 +1,8 @@
 # Whisper Large V3
 
----
-title: Whisper Large V3
-emoji: 🤫
-colorFrom: indigo
-colorTo: red
-sdk: gradio
-sdk_version: 4.31.2
-app_file: app.py
-pinned: false
-tags:
-
-- whisper-event
-
----
+| title | emoji | colorFrom | colorTo | sdk | sdk_version | app_file | pinned | tags |
+|-------|--------|-----------|----------|-----|-------------|-----------|---------|------|
+| Whisper Large V3 | 🤗 | indigo | red | gradio | 4.31.2 | app.py | false | whisper-event |
 
 Check out the configuration reference at <https://huggingface.co/docs/hub/spaces-config-reference>
 

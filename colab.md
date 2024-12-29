@@ -3,29 +3,36 @@
 This is a step-by-step, beginner-friendly guide on how to run the model on Google Colab.
 No previous knowledge of Google Colab is required.
 
-## Step1
+## Opening a file from GitHub
+
+To open a Jupiter notebook from GitHub, you can format a URL such as this:
+<https://colab.research.google.com/github/ALiwoto/whisper-large-v3/blob/master/notebooks/voice_to_text.ipynb>
+
+## Setting up Google Colab
+
+### Step1
 
 Go to this website: <https://colab.research.google.com/>
 
-## Step2
+### Step2
 
 ![image1](assets/image1.png)
 
 Click on "new notebook"
 
-## Step3.1
+### Step3.1
 
 ![image2](assets/image2.png)
 
 Click on "Runtime"
 
-## Step3.2
+### Step3.2
 
 ![image3](assets/image3.png)
 
 Click on "Change runtime type"
 
-## Step3.3
+### Step3.3
 
 ![image4](assets/image4.png)
 
@@ -33,11 +40,6 @@ Python3
 T4 GPU
 
 and then click save and whatever website tells you, press Ok.
-
-## Opening a file from GitHub
-
-To open a Jupiter notebook from GitHub, you can format a URL such as this:
-<https://colab.research.google.com/github/ALiwoto/whisper-large-v3/blob/master/notebooks/voice_to_text.ipynb>
 
 ## Running the model
 
